@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there! I'm Dustin
 
-<!--
-**Scynes/Scynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a love for building interactive web experiences, solving complex problems, and diving deep into new technologies. Whether I'm crafting clean, efficient code or experimenting with new frameworks, I aim to create projects that are not only functional but also a joy to use.
 
-Here are some ideas to get you started:
+![Dustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scynes&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Scynes&theme=radical)
+
+## 🚀 What I'm Working On
+
+- **Next.js ChatGPT Clone:** A portfolio piece showcasing a ChatGPT app with unique chat IDs, stored in MongoDB, and localStorage integration. A base for others to create their own AI-powered chat apps.
+- **Textlight:** A Pastebin-inspired app that merges the simplicity of text sharing with beautiful code snippet rendering.
+- **Fantasy MMORPG Concept:** Developing an Unreal Engine 5 game in a world where two factions battle over a mysterious pit that descends to unknown depths.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Radix UI
+- **Backend:** Node.js, Express, MongoDB, Supabase
+- **Tools:** Zustand, Radix UI, Mongoose, Git, GitHub
+
+## 🌱 Currently Learning
+
+- **Game Development:** Unreal Engine 5
+- **Advanced CSS:** Mastering CSS animations and layouts
+- **Backend Services:** Exploring Supabase and serverless architectures
+
+## 💡 Misc Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scynes&layout=compact&theme=radical)
+
+
+## ✨ Connect with Me
+
+- **LinkedIn:** [Dustin on LinkedIn](https://linkedin.com/in/dustinjs)
+- **Website:** [Dustin's Portfolio](https://dustinjs.dev)
+
+
