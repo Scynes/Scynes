@@ -29,9 +29,3 @@ I'm a passionate developer with a love for building interactive web experiences,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scynes&layout=compact&theme=radical)
 
 
-## ✨ Connect with Me
-
-- **LinkedIn:** [Dustin on LinkedIn](https://linkedin.com/in/dustinjs)
-- **Website:** [Dustin's Portfolio](https://dustinjs.dev)
-
-
