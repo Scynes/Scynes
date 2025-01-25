@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Dustin
+# 👋 Hey there!
 
 I'm a passionate developer with a love for building interactive web experiences, solving complex problems, and diving deep into new technologies. Whether I'm crafting clean, efficient code or experimenting with new frameworks, I aim to create projects that are not only functional but also a joy to use.
 
