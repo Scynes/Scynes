@@ -9,7 +9,6 @@ I'm a passionate developer with a love for building interactive web experiences,
 ## 🚀 What I'm Working On
 
 - **Next.js ChatGPT Clone:** A portfolio piece showcasing a ChatGPT app with unique chat IDs, stored in MongoDB, and localStorage integration. A base for others to create their own AI-powered chat apps.
-- **Textlight:** A Pastebin-inspired app that merges the simplicity of text sharing with beautiful code snippet rendering.
 - **Fantasy MMORPG Concept:** Developing an Unreal Engine 5 game in a world where two factions battle over a mysterious pit that descends to unknown depths.
 
 ## 🛠️ Tech Stack
